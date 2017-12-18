@@ -1,0 +1,1 @@
+just a simple code of Linked List structure
